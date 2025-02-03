@@ -2,6 +2,13 @@
 
 ## Hello! / ሰላም! / مرحبا! ✋
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/mhassen/"><img src="https://img.shields.io/badge/-Mohammed%20Hassen-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:mbeshir26@gmail.com"><img src="https://img.shields.io/badge/-mbeshir26@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://sites.google.com/view/mhassen"><img src="https://img.shields.io/badge/-Google%20Sites-4285F4?style=flat&logo=Google&logoColor=white"/></a>
+</p>
+
+
 I'm data-savvy and love turning unstructured dense data into meaningful  information for collaborators. I have experience in health, retail, finance, and research, which makes my thinking becomes more creative! 
 
 <!--
