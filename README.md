@@ -105,6 +105,11 @@ Data Visualization, Regression Modeling, Time Series Modeling, Cluster Analysis,
 ## 💬 Let's Collaborate!
 I am open to new opportunities, collaboration, and consulting, or any data-driven project needs!
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/mhassen/"><img src="https://img.shields.io/badge/-Mohammed%20Hassen-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:mbeshir26@gmail.com"><img src="https://img.shields.io/badge/-mbeshir26@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="
+
 <!--
 Here are some ideas to get you started:
 
