@@ -3,7 +3,7 @@
 ## Hello! / ሰላም! / مرحبا! ✋
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mhassen/"><img src="https://img.shields.io/badge/-Mohammed%20Hassen-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mbhassen/"><img src="https://img.shields.io/badge/-Mohammed%20Hassen-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:mbeshir26@gmail.com"><img src="https://img.shields.io/badge/-mbeshir26@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://sites.google.com/view/mhassen"><img src="https://img.shields.io/badge/-Google%20Sites-4285F4?style=flat&logo=Google&logoColor=white"/></a>
 </p>
@@ -106,7 +106,7 @@ Data Visualization, Regression Modeling, Time Series Modeling, Cluster Analysis,
 I am open to new opportunities, collaboration, and consulting, or any data-driven project needs!
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mhassen/"><img src="https://img.shields.io/badge/-Mohammed%20Hassen-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mbhassen/"><img src="https://img.shields.io/badge/-Mohammed%20Hassen-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:mbeshir26@gmail.com"><img src="https://img.shields.io/badge/-mbeshir26@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="
 
