@@ -97,7 +97,7 @@ Data Visualization, Regression Modeling, Time Series Modeling, Cluster Analysis,
 **Skills Used:** Data Analysis, Tableau, SQL,  Excel, Data Visualization, Public Health Analytics, Strategic Communication.
 
 #
-## 🎨 About me
+## 🎨 Area of Interest
 - 📊 **Data-Driven Decisions**: Contribute for Health, businesses, and Industry leverage their data to make smarter decisions.
 - 💡 **Innovation**: I constantly explore new technologies and methodologies to provide cutting-edge solutions.
 - 🤝 **Collaboration**: collaborate with university, Instituite and partners to ensure the best research outcomes.
